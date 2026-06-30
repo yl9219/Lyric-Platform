@@ -1,2 +1,0 @@
-# Lyric-Platform
-Lyric Platform
